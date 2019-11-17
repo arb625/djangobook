@@ -1,0 +1,1 @@
+Social media app. Made by following a Django [tutorial](https://www.youtube.com/watch?v=UmljXZIypDc).
